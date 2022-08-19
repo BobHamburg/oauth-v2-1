@@ -28,12 +28,12 @@ Discussion Venues
 
    This note is to be removed before publishing as an RFC.
 
-   Discussion of this document takes place on the Web Authorization
-   Protocol Working Group mailing list (oauth@ietf.org), which is
-   archived at https://mailarchive.ietf.org/arch/browse/oauth/.
+   Discussion of this document takes place on the OAuth Working Group
+   mailing list (oauth@ietf.org), which is archived at
+   https://mailarchive.ietf.org/arch/browse/oauth/.
 
    Source for this draft and an issue tracker can be found at
-   https://github.com/aaronpk/oauth-v2-1.
+   https://github.com/oauth-wg/oauth-v2-1.
 
 Status of This Memo
 
