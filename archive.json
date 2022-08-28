@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2022-08-21T01:06:14.025842+00:00",
+  "timestamp": "2022-08-28T01:11:50.878800+00:00",
   "repo": "oauth-wg/oauth-v2-1",
   "labels": [
     {
@@ -2938,11 +2938,13 @@
       "state": "OPEN",
       "author": "aaronpk",
       "authorAssociation": "COLLABORATOR",
-      "assignees": [],
+      "assignees": [
+        "aaronpk"
+      ],
       "labels": [],
       "body": "https://datatracker.ietf.org/doc/html/draft-ietf-oauth-v2-1-05#section-2.3.1\r\n\r\nRedirect URIs are not required to be registered if the client is using PAR and is a confidential client.",
       "createdAt": "2022-07-26T15:40:28Z",
-      "updatedAt": "2022-07-27T14:52:12Z",
+      "updatedAt": "2022-08-26T19:56:04Z",
       "closedAt": null,
       "comments": [
         {
